@@ -65,7 +65,7 @@
     "name": "mongoose-audit-trail",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Capri-Healthcare/mongoose-audit-trail.git"
+        "url": "https://github.com/Capri-Healthcare/mongoose-audit-trail.git"
     },
     "scripts": {
         "test": "istanbul cover --report lcov  _mocha tests --recursive"
